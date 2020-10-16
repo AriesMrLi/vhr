@@ -9,6 +9,7 @@
         <version>2.1.8.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+    <!--测试git提交-->
     <groupId>org.javaboy</groupId>
     <artifactId>vhr</artifactId>
     <packaging>pom</packaging>
